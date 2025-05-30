@@ -99,9 +99,8 @@ Open a Pull Request — We welcome your contributions!
 🧰 Technology Stack <a name="tech_stack"></a>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=140200"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%23ffd2ce.svg?style=for-the-badge&logo=css3&logoColor=140200"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23e4626b.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 👩‍💼 Project Admin <a name="admin"></a>
-<table> <tr> <td align="center"> <a href="https://github.com/Susmita-Dey"> <img src="https://avatars.githubusercontent.com/u/79099734?v=4" width="100px;" alt="Susmita Dey"/><br /> <sub><b>Susmita Dey</b></sub> </a> </td> </tr> </table>
+<table> <tr> <td align="center"> <a href="https://github.com/tarunjoshi730/Student-Concern-Therapy-Portal-Mind-Tree-GEHU-Haldwani"> <img src="https://avatars.githubusercontent.com/u/79099734?v=4" width="100px;" alt="Susmita Dey"/><br /> <sub><b>Susmita Dey</b></sub> </a> </td> </tr> </table>
 🤝 Contributors <a name="contributors"></a>
 Thanks to all the amazing contributors! ✨
 
-<table align="center"> <tr> <td> <a href="https://github.com/Susmita-Dey/Sukoon/graphs/contributors" align="center"> <img src="https://contrib.rocks/image?repo=Susmita-Dey/Sukoon" /> </a> </td> </tr> </table>
 <p align="center"> Made with ❤️ at <b>Graphic Era Hill University</b> 🇮🇳 </p>
